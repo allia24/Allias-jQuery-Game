@@ -1,0 +1,24 @@
+body{
+    background-color:black;
+    color:#72BF44;
+    font-family: 'Bungee Outline';font-size: 22px;
+    text-align:center;
+}
+.title{
+    font-size:50px;
+}
+.yes-button,.no-button, .yespeed, .nospeed, .noc, .restart2 {
+  background-color: #72BF44;
+  border: red;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.car,.no,.turnt,.Speed,.car1,.car2,.car3,.mph,.clifft, .yespeed, .nospeed,.morespeed,.nomorespeed, .left, .right,.noc, .cliff, .noct, .cop, .escape, .confetti{
+    display:none;
+}
