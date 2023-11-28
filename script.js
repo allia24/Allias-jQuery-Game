@@ -252,7 +252,7 @@ $(".restart2").click(function() {
     $(".restart2").hide();
     $(".noct").hide();
     $(".cop").hide();
-    $(".speed").hide();
+    $(".Speed").hide();
     $(".no").hide();
 });
 
